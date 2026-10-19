@@ -41,3 +41,16 @@
 | Baseline decisionale | Risultato del processo attualmente usato con cui confrontare una nuova soluzione, su periodi e condizioni comparabili. Spiegazione estesa §§1, 3 e 5, a partire da Rizzi e Campana e slide 60–61. | Un modello che riduce gli stock-out ma aumenta molto invenduto non ha valore dimostrato dalla sola accuratezza. |
 
 **Incertezze:** la quota «80–90% di dati non strutturati» è una stima didattica senza base statistica aggiornata verificata; non è inclusa nella definizione. «85% confidence» dell'esempio aereo non è una soglia universale.
+
+
+## Concetti sviluppati nell’integrazione del 19 ottobre
+Spiegazioni aggiunte dai nuclei intelligibili Rizzi116–121,151–156 e Campana85–86,159,164–165; non citazioni audio verificate. Esempi ipotetici.
+
+- **Edge computing:** elaborazione vicino alla sorgente. Un sensore che invia dati al centro è IoT; se un elaboratore locale confronta le misure e segnala anomalie, svolge elaborazione edge. Non garantisce da solo latenza o sicurezza.
+- **Encoding:** regola che associa una categoria a un codice. Schede A,B,A producono A=2,B=1; una scheda ambigua resta da controllare.
+- **Feedback loop:** il risultato modifica i dati successivi. Click→ranking→esposizione→nuovi click: non dedurre interesse dai click senza controllare esposizioni.
+- **CTR:** click divisi per esposizioni;10/100=10%,100/1000=10%. Stesso tasso non dimostra stesso pubblico o utilità.
+- **User/beneficiary/payer:** chi usa, chi beneficia e chi finanzia; possono essere soggetti differenti. Utilità per l’addetto non prova disponibilità del titolare a pagare.
+- **Multimodal evidence:** confronto di informazioni in forme diverse, legate allo stesso oggetto e tempo pertinente. Una foto del tetto nord non esclude danni al lato sud.
+- **Fallback:** percorso alternativo verificato quando il modello non sostiene la decisione. Responsabile, tempi e azione nell’attesa vanno definiti; nessuna soglia85% universale.
+- **Calibration:** coerenza fra probabilità dichiarate e frequenze osservate su casi pertinenti; uno score percentuale non è automaticamente calibrato.
