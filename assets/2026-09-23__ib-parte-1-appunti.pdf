@@ -665,7 +665,7 @@ endstream
 endobj
 55 0 obj
 <<
-/Author (Chassy \267 Appunti di studio)
+/Author (l\047autore \267 Appunti di studio)
 /CreationDate (D\07220260923111312\05302\04700\047)
 /Creator (\050unspecified\051)
 /Keywords ()
@@ -673,7 +673,7 @@ endobj
 /Producer (ReportLab PDF Library \055 \050opensource\051)
 /Subject (\050unspecified\051)
 /Title (International Business \204 23 settembre 2026 \204 Parte 1)
-/Trapped /False
+/Trapped (\057False)
 >>
 endobj
 xref
@@ -742,5 +742,5 @@ trailer
 /ID [ (\263\3615\306\031\254\367\206PX\363\330d\202\325\042) (\263\3615\306\031\254\367\206PX\363\330d\202\325\042) ]
 >>
 startxref
-31566
+31576
 %%EOF

@@ -1,6 +1,6 @@
 # International Business — catena del valore e motivi dell'internazionalizzazione
 
-**Ambito:** sola registrazione PLAUD `of_b83cb0a291957ec5dae946a2d0f00e26` del 7 ottobre, 09:31:40–10:44:59 (1 h 13 min 19 s). Chassy ha confermato la fine effettiva alle 11:54:11 (conferma registrata alle 12:08:55) e che non aveva avviato un’altra registrazione. Il calendario indicava 12:30. La copertura audio dell'intera lezione non è verificata; questo pacchetto copre solo i materiali registrati disponibili.
+**Ambito:** sola registrazione PLAUD `of_b83cb0a291957ec5dae946a2d0f00e26` del 7 ottobre, 09:31:40–10:44:59 (1 h 13 min 19 s). La fine effettiva è stata riferita alle 11:54:11 (conferma registrata alle 12:08:55) e che non aveva avviato un’altra registrazione. Il calendario indicava 12:30. La copertura audio dell'intera lezione non è verificata; questo pacchetto copre solo i materiali registrati disponibili.
 
 La lezione passa dall'idea generica di «impresa internazionale» alla sua **catena del valore**: dove si svolgono approvvigionamento, produzione, logistica, marketing e vendita, chi le coordina e perché quella configurazione crea valore. Una funzione può essere in un altro paese senza che l'intera impresa vi sia trasferita. La localizzazione va spiegata insieme alle dipendenze tra fasi, ai costi, alle competenze e ai mercati serviti. [Trascrizione 04:24–04:42, 10:17, 14:58–18:55; slide Canvas *1. who why IB 2026-27.pdf*, pp. 3, 35–39.]
 
