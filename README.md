@@ -1,3 +1,3 @@
-# Study Lab
+# Spostato
 
-Sito statico generato automaticamente. Non modificare a mano.
+Questo sito ora è su https://github.com/ChassyK/study-lab e https://chassyk.github.io/study-lab/
